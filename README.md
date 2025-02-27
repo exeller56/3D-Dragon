@@ -1,4 +1,4 @@
-# 3D Dragon – Arduino Nano-Based 3D Printer Motherboard  
+# 3D Dragon
 
 ![3D Dragon Logo](doc/pcb.png)  
 
