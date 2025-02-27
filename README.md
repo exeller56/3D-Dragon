@@ -1,6 +1,6 @@
 # 3D Dragon – Arduino Nano-Based 3D Printer Motherboard  
 
-![3D Dragon Logo](doc/pcb.jpg)  
+![3D Dragon Logo](doc/pcb.png)  
 
 **3D Dragon** is a compact and efficient 3D printer motherboard designed to work with **Arduino Nano**. It exclusively supports **LCD** for displaying essential printer information. This board is an ideal choice for DIY 3D printer projects, offering a simple yet powerful solution for enthusiasts and makers.  
 
