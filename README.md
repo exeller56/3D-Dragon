@@ -25,7 +25,7 @@
 
 ## 🔧 Schematic  
 
-The complete schematic of **3D Dragon** is included in this repository. Please refer to it for detailed wiring and component placement.  
+![schematic](doc/Schematic.png)
 
 ---  
 
