@@ -35,7 +35,7 @@
 - **Enhanced LCD support**  
 - **More documentation and guides**  
 
----  
+---
 
 ## 💡 Contribute  
 
@@ -44,6 +44,11 @@ If you have ideas for improving **3D Dragon**, feel free to submit a **Pull Requ
 📩 **Join our Discord**: [Discord](https://discord.gg/wb8aTkxPa3) 
 
 ---  
+
+## Donation
+
+etheruem: 0xfC38FBD07661498996247374636372196d2b02eC
+---
 
 ## 📜 License  
 
