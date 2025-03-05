@@ -47,7 +47,8 @@ If you have ideas for improving **3D Dragon**, feel free to submit a **Pull Requ
 
 ## Donation
 
-etheruem: 0xfC38FBD07661498996247374636372196d2b02eC
+- etheruem: 0xfC38FBD07661498996247374636372196d2b02eC
+
 ---
 
 ## 📜 License  
